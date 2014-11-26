@@ -7,8 +7,8 @@
         "country": "us",
         "state": "ca",
     },
-    "agency": "Department of Health Care Services"
-    "division": "Fiscal Intermediary and Contracts Oversight Division"
+    "agency": "Department of Health Care Services",
+    "division": "Fiscal Intermediary and Contracts Oversight Division",
     "vendor": "ACS State Healthcare, LLC",
     "contract": "http://www.dhcs.ca.gov/provgovpart/rfa_rfp/Documents/IFBacsFinalContractPart2.pdf",
     "year": "TBD",
